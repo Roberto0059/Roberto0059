@@ -1,6 +1,6 @@
-<h1>Hi, I'm Roberto!!! <br/><a href="https://github.com/joshmadakor1">Student</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Computer Information Systems Major</a>, <a href="https://www.youtube.com/c/joshmadakor">
+<h1>Hi, I'm Roberto!!! <br/><a href="https://github.com/Roberto0059">Student</a>, <a href="https://www.linkedin.com/in/roberto-flores-6a896a258/">Computer Information Systems Major</a> 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 School & Personal Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
