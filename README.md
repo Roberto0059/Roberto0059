@@ -20,9 +20,8 @@
 
 <h2>📺 Certifications </h2>
 - <b>Google Cybersecurity Professional Certification </b>
-- "https://coursera.org/share/b8df9f589b547656393147a8efbe7509"
-Google Cybersecurity
-
+- [Google Cybersecurity](https://coursera.org/share/b8df9f589b547656393147a8efbe7509)
+- <b>COMPTIA Security+ (In Progress) </b>
 
 
 
