@@ -18,6 +18,8 @@
 - <b>Python</b>
   - [Python-Variables](https://github.com/Roberto0059/Python-Variables)
   - [Python-Statements](https://github.com/Roberto0059/Python-Statements)
+  - [Python-Loops](https://github.com/Roberto0059/Python--Loops)
+
 
 
 <h2> 📚 Certifications: </h2>
