@@ -1,6 +1,6 @@
-<h1>Hi, I'm Roberto!!! <br/><a href="https://github.com/Roberto0059">Student</a>, <a href="https://www.linkedin.com/in/roberto-flores-6a896a258/">Computer Information Systems Major</a> 
+<h1>Hi, I'm Roberto!!! <br/><a href="https://github.com/Roberto0059"> Texas A&M University Student</a>, <a href="https://www.linkedin.com/in/roberto-flores-6a896a258/">Computer Information Systems Major</a> 
 
-<h2>👨‍💻 School & Personal Projects:</h2>
+<h2>👨‍💻 School & Personal Labs/Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/Roberto0059/ActiveDirectoryLab/blob/main/README.md#-active-directory-lab)
@@ -18,12 +18,20 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Certifications </h2>
+<h2> 📚 Certifications: </h2>
+
 - <b>Google Cybersecurity Professional Certification </b>
   - [Google Cybersecurity](https://coursera.org/share/b8df9f589b547656393147a8efbe7509)
 - <b>COMPTIA Security+ (In Progress) </b>
 
+<h2> 💻 Organizations: </h2>
 
+- <b>ReadySATX: Alamo Fellows</b>
+  - [ReadySATX: Alamo Fellows](https://greatersatx.com/sa-worx/programs/alamo-fellows/)
+- <b>Google Cybersecurity Professional Certification</b>
+  - [San Antonio Ready to Work](https://readytoworksa.com/)
+- <b>VICEROY</b>
+  -  [Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ](https://cybersecurity.tamu.edu/education/viceroy/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
