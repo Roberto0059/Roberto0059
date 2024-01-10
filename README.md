@@ -35,9 +35,9 @@
 - <b>VICEROY</b>
   -  [Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ](https://cybersecurity.tamu.edu/education/viceroy/)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Resources </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Ports and Protocols Reference Sheet](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
