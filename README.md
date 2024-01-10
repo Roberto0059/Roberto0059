@@ -28,7 +28,7 @@
 
 - <b>ReadySATX: Alamo Fellows</b>
   - [ReadySATX: Alamo Fellows](https://greatersatx.com/sa-worx/programs/alamo-fellows/)
-- <b>Google Cybersecurity Professional Certification</b>
+- <b>San Antonio Ready to Work]</b>
   - [San Antonio Ready to Work](https://readytoworksa.com/)
 - <b>VICEROY</b>
   -  [Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ](https://cybersecurity.tamu.edu/education/viceroy/)
