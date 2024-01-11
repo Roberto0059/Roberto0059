@@ -35,15 +35,11 @@
 - <b>San Antonio Ready to Work]</b>
   - [San Antonio Ready to Work](https://readytoworksa.com/)
 - <b>VICEROY</b>
-  -  [Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ](https://cybersecurity.tamu.edu/education/viceroy/)
+  - [Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ](https://cybersecurity.tamu.edu/education/viceroy/)
 
-<h2>📺 Resources </h2>
+<h2> 📺 Resources </h2>
 
 - [Ports and Protocols Reference Sheet](https://github.com/Roberto0059/Resources)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -52,8 +48,6 @@
 [linkedin]: https://www.linkedin.com/in/roberto-flores-6a896a258/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -62,6 +56,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
