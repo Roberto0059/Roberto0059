@@ -34,7 +34,8 @@
 
 <h2> 📺 Resources </h2>
 
-- [Ports and Protocols Reference Sheet](https://github.com/Roberto0059/Resources)
+- <b>Ports and Protocols Reference Sheet</b>
+  - [Ports and Protocols Reference Sheet](https://github.com/Roberto0059/Resources)
 
 <h2> 🤳 Connect with me:</h2>
 
