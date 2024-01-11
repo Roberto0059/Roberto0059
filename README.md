@@ -6,6 +6,8 @@
   - [Python-Variables](https://github.com/Roberto0059/Python-Variables)
   - [Python-Statements](https://github.com/Roberto0059/Python-Statements)
   - [Python-Loops](https://github.com/Roberto0059/Python--Loops)
+  - [Python-Strings](https://github.com/Roberto0059/Python--Strings)
+
 - <b> Networks </b>
   - [Network Diagram Project](https://github.com/Roberto0059/Network-Diagram)  
 - <b>PowerShell & Kali Linux </b>
