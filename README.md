@@ -8,12 +8,13 @@
   - [Python-Loops](https://github.com/Roberto0059/Python--Loops)
   - [Python-Strings](https://github.com/Roberto0059/Python--Strings)
   - [Python-Define & Call A Function](https://github.com/Roberto0059/Python-D-C)
-
-
 - <b> Networks </b>
   - [Network Diagram Project](https://github.com/Roberto0059/Network-Diagram)  
 - <b>PowerShell & Kali Linux </b>
+  - [OWASP/Fox Proxy Project PT.1](https://github.com/Roberto0059/Network-Diagram)  
+  - [OWASP/Fox Proxy Project PT.2](https://github.com/Roberto0059/Network-Diagram)
 - <b> SQL & Database Design </b>
+  - [SQL Scripts](https://github.com/Roberto0059/Network-Diagram)
 
 
 <h2> 📚 Certifications: </h2>
