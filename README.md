@@ -13,6 +13,8 @@
 - <b>PowerShell & Kali Linux </b>
   - [Kali Linux Project PT.1](https://github.com/Roberto0059/Kali-Linux-Project1)  
   - [Kali Liinux Project PT.2](https://github.com/Roberto0059/Kali-Linux-Project1)
+  - <b> WireShark </b>
+  - [WireShark Assignments & Projects](https://github.com/Roberto0059/WireShark)
 - <b> SQL & Database Design </b>
   - [SQL Scripts](https://github.com/Roberto0059/Network-Diagram)
 
