@@ -16,7 +16,7 @@
   - <b> WireShark </b>
   - [WireShark Assignments & Projects](https://github.com/Roberto0059/WireShark)
 - <b> SQL & Database Design </b>
-  - [SQL Scripts](https://github.com/Roberto0059/Network-Diagram)
+
 
 
 <h2> 📚 Certifications: </h2>
