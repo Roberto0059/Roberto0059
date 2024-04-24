@@ -17,9 +17,8 @@
   - [WireShark Assignments & Projects](https://github.com/Roberto0059/WireShark)
 - <b> Database Security </b>
   - [Integrating Security Components: A Demonstration, Literature Review, And Benchmark Study Of Sql Tools In Web Security ](https://github.com/Roberto0059/Database-Security-Project)
-  
-
 - <b> SQL & Database Design </b>
+  - [Power BI and Jupyter Dataset Project](https://github.com/Roberto0059/Power-BI-and-Jupyter)
 
 
 
